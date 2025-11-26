@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This GitHub Account is primarily for documenting my learning history. It allows me to showcase interesting non-work related projects, keep track of my learning journey, and allows me to reference back to the content as I need it.
+This GitHub Account is primarily for documenting my learning history. It allows me to showcase interesting non-work related projects, keep track and be consistent in my learning journey, and allows me to reference back to the content as I need it.
 
 <!--
 **curious-pumpkin/curious-pumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
