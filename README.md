@@ -1,6 +1,10 @@
-## Hi there 👋
+## What's Cookin'? 😎🤙🏾✨
 
-This GitHub Account is primarily for documenting my learning history. It allows me to showcase interesting non-work related projects, keep track and be consistent in my learning journey, and allows me to reference back to the content as I need it.
+This is A. Sarkar, undergrad @ NYU.
+
+This GitHub Account was primarily created to document my learning history. It allows me to keep track and be consistent in my learning journey, reference back to the content as I need it and also showcase interesting non-work projects.
+
+I'm primarily interested in Algorithm Design. The specific field where an algorithm is applied matters very little to me. But I'm particularly interested in studying Algorithms developed in one field be adapted and applied in another field in a very different context.
 
 <!--
 **curious-pumpkin/curious-pumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
