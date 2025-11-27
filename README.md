@@ -1,6 +1,6 @@
 ## What's Cookin'? 😎🤙🏾✨
 
-This is A. Sarkar, undergrad @ NYU.
+This is A. Sarkar, undergrad @ nyu.
 
 This GitHub Account was primarily created to document my learning history. It allows me to keep track and be consistent in my learning journey, reference back to the content as I need it and also showcase interesting non-work projects.
 
